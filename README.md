@@ -7,4 +7,5 @@
 - 在*pipelines.py*文件中，可以修改传输存储方式
 
 网页的解析过程来自于froulet的爬虫[instagram-spider](https://github.com/froulet/instagram-spider/blob/master/instagram_spider.py)
+
 具体的documents可以在[Scrapy](https://scrapy.org/)的网页中查询
