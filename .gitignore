@@ -1,0 +1,6 @@
+# Pycache
+__pycache__/*
+spiders/__pycache__/*
+
+#Pycharm settings
+.idea/*
