@@ -4,7 +4,7 @@
 
 import scrapy
 import json
-from items import InstagramItem
+from ..items import InstagramItem
 from scrapy.spiders import CrawlSpider,Rule
 import re
 
